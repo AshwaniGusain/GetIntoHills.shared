@@ -1,0 +1,14 @@
+D:\Website\GetIntoHills.shared\bin\Debug\netcoreapp3.1\GetIntoHills.shared.exe
+D:\Website\GetIntoHills.shared\bin\Debug\netcoreapp3.1\GetIntoHills.shared.deps.json
+D:\Website\GetIntoHills.shared\bin\Debug\netcoreapp3.1\GetIntoHills.shared.runtimeconfig.json
+D:\Website\GetIntoHills.shared\bin\Debug\netcoreapp3.1\GetIntoHills.shared.runtimeconfig.dev.json
+D:\Website\GetIntoHills.shared\bin\Debug\netcoreapp3.1\GetIntoHills.shared.dll
+D:\Website\GetIntoHills.shared\bin\Debug\netcoreapp3.1\GetIntoHills.shared.pdb
+D:\Website\GetIntoHills.shared\obj\Debug\netcoreapp3.1\GetIntoHills.shared.csproj.AssemblyReference.cache
+D:\Website\GetIntoHills.shared\obj\Debug\netcoreapp3.1\GetIntoHills.shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Website\GetIntoHills.shared\obj\Debug\netcoreapp3.1\GetIntoHills.shared.AssemblyInfoInputs.cache
+D:\Website\GetIntoHills.shared\obj\Debug\netcoreapp3.1\GetIntoHills.shared.AssemblyInfo.cs
+D:\Website\GetIntoHills.shared\obj\Debug\netcoreapp3.1\GetIntoHills.shared.csproj.CoreCompileInputs.cache
+D:\Website\GetIntoHills.shared\obj\Debug\netcoreapp3.1\GetIntoHills.shared.dll
+D:\Website\GetIntoHills.shared\obj\Debug\netcoreapp3.1\GetIntoHills.shared.pdb
+D:\Website\GetIntoHills.shared\obj\Debug\netcoreapp3.1\GetIntoHills.shared.genruntimeconfig.cache
